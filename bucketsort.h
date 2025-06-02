@@ -1,13 +1,9 @@
-#include <stdio.h>
-#define tamBalde 10
-#define numBaldes 10
-#define max 10
+#ifndef BUCKETSORT_H
+#define BUCKETSORT_H
 
-typedef struct {
-    int balde[tamBalde];
-    int topo;
-} Balde;
+#define TAM_VETOR 100
+#define QTDE_BALDES 10
 
-void bucketSort(int vet[], int tam);
+  void ordena_baldes(int *vetor, int tamanho);
 
-void bubbleSort(int vet[], int tam);
+#endif
