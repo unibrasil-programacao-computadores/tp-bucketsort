@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
 #include "bucketsort.h"
 
 static void ordena_insertion(int *vetor, int tamanho) {
