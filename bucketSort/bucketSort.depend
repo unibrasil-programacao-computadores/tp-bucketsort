@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1748903510 source:c:\users\2024204447\downloads\tp-bucketsort\bucketsort\bucketsort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bucketsort.h"
+
+1748903600 c:\users\2024204447\downloads\tp-bucketsort\bucketsort\bucketsort.h
+
+1748903510 source:c:\users\2024204447\downloads\tp-bucketsort\bucketsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"bucketsort.h"
+
