@@ -14,3 +14,11 @@
 	<math.h>
 	"bucketsort.h"
 
+1749417766 source:h:\prog_em_c\tp-bucketsort\bucketsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bucketsort.h"
+
+1749417766 h:\prog_em_c\tp-bucketsort\bucketsort\bucketsort.h
+
